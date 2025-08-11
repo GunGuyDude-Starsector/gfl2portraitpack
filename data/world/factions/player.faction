@@ -1,6 +1,11 @@
 {
 	"portraits":{
+		"standard_male":[
+			"graphics/portraits/GFL2_Commander_Profile_M.png",
+		],
 		"standard_female":[
+			"graphics/portraits/GFL2_Commander_Profile_F.png",
+			"graphics/portraits/Avatar_Bust_AlvaSSR.png",
 			"graphics/portraits/Avatar_Bust_AndorisSSR.png",
 			"graphics/portraits/Avatar_Bust_BiyocaSSR.png",
 			"graphics/portraits/Avatar_Bust_CentaureissiSSR.png",
@@ -40,6 +45,7 @@
 			"graphics/portraits/Avatar_Bust_UllridSSR.png",
 			"graphics/portraits/Avatar_Bust_VectorSSR.png",
 			"graphics/portraits/Avatar_Bust_VepleySSR.png",
+			"graphics/portraits/Avatar_Bust_VoymastinaSSR.png",
 			"graphics/portraits/Avatar_Bust_YooHeeSSR.png",
 			"graphics/portraits/Avatar_Bust_ZhaohuiSSR.png",
 		],
